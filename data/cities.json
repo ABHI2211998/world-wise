@@ -1,0 +1,232 @@
+{
+  "cities": [
+    {
+      "cityName": "Faridabad",
+      "emoji": "🇮🇳",
+      "country": "India",
+      "date": "2023-10-03T17:12:52.528Z",
+      "notes": "",
+      "position": {
+        "lat": "28.420391085674304",
+        "lng": "77.27783203125"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Burt Plain",
+      "emoji": "🇦🇺",
+      "country": "Australia",
+      "date": "2023-10-03T18:13:18.309Z",
+      "notes": "",
+      "position": {
+        "lat": "-23.079731762449878",
+        "lng": "133.59375000000003"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "La Toba",
+      "emoji": "🇪🇸",
+      "country": "Spain",
+      "date": "2023-10-04T07:02:10.191Z",
+      "notes": "",
+      "position": {
+        "lat": "41.0130657870063",
+        "lng": "-3.0322265625000004"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Solsona",
+      "emoji": "🇪🇸",
+      "country": "Spain",
+      "date": "2023-10-04T07:08:48.144Z",
+      "notes": "",
+      "position": {
+        "lat": "41.983994270935625",
+        "lng": "1.5380859375000002"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "El Abiodh Sidi Cheikh",
+      "emoji": "🇩🇿",
+      "country": "Algeria",
+      "date": "2023-10-04T07:09:20.886Z",
+      "notes": "",
+      "position": {
+        "lat": "32.7688004848817",
+        "lng": "0.9667968750000001"
+      },
+      "id": 6
+    },
+    {
+      "cityName": "El Meghaier",
+      "emoji": "🇩🇿",
+      "country": "Algeria",
+      "date": "2023-10-04T07:22:07.747Z",
+      "notes": "",
+      "position": {
+        "lat": "33.925129700072",
+        "lng": "5.77880859375"
+      },
+      "id": 7
+    },
+    {
+      "cityName": "A Dakhla Oasis",
+      "emoji": "🇪🇬",
+      "country": "Egypt",
+      "date": "2023-10-04T07:22:11.946Z",
+      "notes": "",
+      "position": {
+        "lat": "25.403584973186703",
+        "lng": "28.894042968750004"
+      },
+      "id": 8
+    },
+    {
+      "cityName": "Ghaziabad",
+      "emoji": "🇮🇳",
+      "country": "India",
+      "date": "2023-10-04T07:22:27.658Z",
+      "notes": "",
+      "position": {
+        "lat": "28.729130483430154",
+        "lng": "77.45361328125001"
+      },
+      "id": 9
+    },
+    {
+      "cityName": "Abu Dhabi",
+      "emoji": "🇦🇪",
+      "country": "United Arab Emirates (the)",
+      "date": "2023-10-04T07:23:25.094Z",
+      "notes": "",
+      "position": {
+        "lat": "23.684774166883756",
+        "lng": "54.33837890625001"
+      },
+      "id": 10
+    },
+    {
+      "cityName": "Caynabo",
+      "emoji": "🇸🇴",
+      "country": "Somalia",
+      "date": "2023-10-04T07:23:34.882Z",
+      "notes": "",
+      "position": {
+        "lat": "9.275622176792112",
+        "lng": "46.494140625"
+      },
+      "id": 11
+    },
+    {
+      "cityName": "Isiolo",
+      "emoji": "🇰🇪",
+      "country": "Kenya",
+      "date": "2023-10-04T07:23:47.905Z",
+      "notes": "",
+      "position": {
+        "lat": "1.1864386394452024",
+        "lng": "38.21044921875001"
+      },
+      "id": 12
+    },
+    {
+      "cityName": "Faridabad",
+      "emoji": "🇮🇳",
+      "country": "India",
+      "date": "2023-10-04T12:42:14.546Z",
+      "notes": "",
+      "position": {
+        "lat": "28.47834869222319",
+        "lng": "77.29980468750001"
+      },
+      "id": 13
+    },
+    {
+      "cityName": "Faridabad",
+      "emoji": "🇮🇳",
+      "country": "India",
+      "date": "2023-10-06T19:46:47.238Z",
+      "notes": "",
+      "position": {
+        "lat": "28.396785038256144",
+        "lng": "77.17895507812501"
+      },
+      "id": 14
+    },
+    {
+      "cityName": "Delhi",
+      "emoji": "🇮🇳",
+      "country": "India",
+      "date": "2023-10-10T17:37:30.706Z",
+      "notes": "",
+      "position": {
+        "lat": "28.422302780799082",
+        "lng": "77.18994140625"
+      },
+      "id": 15
+    },
+    {
+      "cityName": "Delhi",
+      "emoji": "🇮🇳",
+      "country": "India",
+      "date": "2023-10-10T17:39:35.035Z",
+      "notes": "",
+      "position": {
+        "lat": "28.63459105246817",
+        "lng": "77.1856222142267"
+      },
+      "id": 16
+    },
+    {
+      "cityName": "Greater Noida",
+      "emoji": "🇮🇳",
+      "country": "India",
+      "date": "2023-10-10T17:54:55.049Z",
+      "notes": "",
+      "position": {
+        "lat": "28.505175570773478",
+        "lng": "77.43164062500001"
+      },
+      "id": 17
+    },
+    {
+      "cityName": "Greater Noida",
+      "emoji": "🇮🇳",
+      "country": "India",
+      "date": "2023-10-10T18:00:47.951Z",
+      "notes": "",
+      "position": {
+        "lat": "28.501343619025455",
+        "lng": "77.36572265625001"
+      },
+      "id": 18
+    },
+    {
+      "cityName": "Pisangan",
+      "emoji": "🇮🇳",
+      "country": "India",
+      "date": "2023-10-10T18:00:51.889Z",
+      "notes": "",
+      "position": {
+        "lat": "26.398540139488862",
+        "lng": "74.46533203125001"
+      },
+      "id": 19
+    },
+    {
+      "cityName": "Delhi",
+      "emoji": "🇮🇳",
+      "country": "India",
+      "date": "2023-11-10T19:41:34.119Z",
+      "notes": "",
+      "position": {
+        "lat": "28.576742454773363",
+        "lng": "77.27783203125"
+      },
+      "id": 20
+    }
+  ]
+}
